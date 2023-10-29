@@ -10,7 +10,7 @@ const Login = () => {
     <Login_Components>
       <div className="container">
         <div className="image_container">
-          <img src="../src/assets/login.png" alt="login_png" className="image" />
+          <img src="./login.PNG" alt="login_png" className="image" />
         </div>
         <div className="second_wraper">
           <div className="login_content_wrapper">
