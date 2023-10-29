@@ -108,6 +108,7 @@ const Login_Components = styled.div`
   background-color: #fff;
 
   .container {
+
     width: 100%;
     height: 100%;
     display: flex;
@@ -121,7 +122,6 @@ const Login_Components = styled.div`
     color: #4681f4;
   }
   .image_container {
-    /* background-color: red; */
     width: 100%;
     height: 100%;
     display: flex;
@@ -205,7 +205,6 @@ const Login_Components = styled.div`
   }
 
   .bottom_content {
-    /* width: calc(100% - 40%); */
     display: flex;
     flex-direction: column;
 
